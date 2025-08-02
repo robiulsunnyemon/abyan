@@ -35,6 +35,17 @@ A Flutter implementation of the mobile app design from the Figma prototype.
   </div>
 </div>
 
+
+## 🎥 Demo Video
+
+<div align="center">
+  <a href="https://youtu.be/RMSVA2R2iXQ">
+    <img src="https://img.youtube.com/vi/RMSVA2R2iXQ/maxresdefault.jpg" alt="App Demo" style="width:100%; max-width:600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
+  <br>
+  <a href="https://youtu.be/RMSVA2R2iXQ" target="_blank">Watch on YouTube</a>
+</div>
+
 ## Getting Started
 
 ### Prerequisites
