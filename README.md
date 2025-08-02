@@ -24,7 +24,7 @@ A Flutter implementation of the mobile app design from the Figma prototype.
 ### Installation
 1. Clone this repository
    ```bash
-   git clone [your-repository-url]
+   git clone [[your-repository-url](https://github.com/robiulsunnyemon/abyan.git)]
    ```
 2. Navigate to the project directory
    ```bash
