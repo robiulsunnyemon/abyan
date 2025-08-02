@@ -9,7 +9,7 @@ A Flutter implementation of the mobile app design from the Figma prototype.
 ## Features
 - Clean, modern UI following the Figma design
 - Responsive layout for various screen sizes
-- [List key features implemented from the design]
+
 
 ## Screenshots
 [Add screenshots comparing your implementation with the Figma design]
@@ -24,7 +24,7 @@ A Flutter implementation of the mobile app design from the Figma prototype.
 ### Installation
 1. Clone this repository
    ```bash
-   git clone [[your-repository-url](https://github.com/robiulsunnyemon/abyan.git)]
+   git clone https://github.com/robiulsunnyemon/abyan.git
    ```
 2. Navigate to the project directory
    ```bash
