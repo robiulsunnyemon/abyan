@@ -1,6 +1,4 @@
-Here's a `README.md` file for your Flutter project based on the Figma design you shared:
 
-```markdown
 # ABYANSF - Apps Design (Flutter Implementation)
 
 A Flutter implementation of the mobile app design from the Figma prototype.
