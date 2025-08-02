@@ -12,7 +12,28 @@ A Flutter implementation of the mobile app design from the Figma prototype.
 
 
 ## Screenshots
-[Add screenshots comparing your implementation with the Figma design]
+<div style="display: flex; justify-content: space-between;">
+ <div>
+    <h4>Onboarding Screens</h4>
+    <img src="assets/readmeImage/Onboarding%20Screen.png" width="1559" alt="">
+  </div>
+  <div>
+    <h4>Authentication Screens</h4>
+    <img src="assets/readmeImage/Authentication.png" width="2465" alt="">
+  </div>
+  <div>
+    <h4>Main Screens</h4>
+    <img src="assets/readmeImage/Main%20Screen.png" width="2691" alt="">
+  </div>
+  <div>
+    <h4>Request Form Screens</h4>
+    <img src="assets/readmeImage/Request%20page.png" width="2493" alt="">
+  </div>
+  <div>
+    <h4>Profile Screens</h4>
+    <img src="assets/readmeImage/Profile%20Pages.png" width="2398" alt="">
+  </div>
+</div>
 
 ## Getting Started
 
